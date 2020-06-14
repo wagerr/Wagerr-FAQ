@@ -1,6 +1,6 @@
 # About Us
 
-<center><img src="logo.jpeg" /></center>
+<center><img src="wgrprimaryBlack.png"/></center>
 
 ## What is Wagerr?
 
@@ -41,7 +41,7 @@ To get started with Wagerr you need to first download the Wagerr software, the l
 * iOS - [iosapp.wagerr.com](iosapp.wagerr.com)
 * Desktop - [wagerr.com](wagerr.com)
 
-To begin betting you will need to purchase WGR coins. Read how to purchase coins here.
+To begin betting you will need to purchase WGR coins. <a href=buyingWGR>Read how to purchase coins here.</a>
 
 If you have any difficulties with downloading the software please join the Wagerr [Telegram](https://t.me/wagerrcoin) or [Discord](https://discord.com/invite/vecf8Ca) community to ask for help.
 
@@ -60,7 +60,7 @@ WGR can be purchased using your debit or credit card via [instaswap.io](https://
 We keep an up to date list of exchanges that support WGR on our website [here](https://wagerr.com/en/get-wallet). 
 
 
-## Why do you say Wagerr is transparent?
+## How is Wagerr transparent?
 Unlike normal sportsbooks, Wagerr is open source and all data regarding betting is publicly available. This is unprecedented, and we think it's very exciting!
 
 When you make a bet with Wagerr, it is recorded on the Wagerr blockchain (think database). This database can be viewed [here](https://explorer.wagerr.com/#/betevents).
@@ -74,9 +74,9 @@ You are able to see on each event how much was bet and when resulted, how much W
 
 ## How does the Wagerr’s “Value Coupling” work?
 
-Wagerr has engineered a token economy centred around the WGR coin. The WGR coin acts as an incentive mechanism that aligns the incentives of the bettors and the sportsbook. All bettors must use the WGR coin to make bets, this is the primary use case of the coin. The first question many ask is why introduce a coin in the first place?
+Wagerr has engineered a token economy centred around the WGR coin. The WGR allows you to share in the sucess of the Wagerr betting platform. All bettors must use the WGR coin to make bets, this is the primary use case of the coin. The first question many ask is why introduce a coin in the first place?
 
-If we were solely to use BTC, ETH or various stable coins, then this would be no different to many of the sportsbooks that you likely see and use today. Wagerr is a new business model that requires WGR for the model to work. The unique features that we offer players like no limit betting, no third party risks or earning some of the house edge are only possible because we have built our own blockchain and token economy. Without the blockchain or WGR coin this would not be possible.
+If Wagerr was solely to use BTC, ETH or various stable coins, then this would be no different to many of the sportsbooks that you likely see and use today. Wagerr is a new business model that requires WGR for the model to work. The unique features that we offer players like no limit betting, no third party risks or earning some of the house edge are only possible because we have built our own blockchain and token economy. Without the blockchain or WGR coin this would not be possible.
 
 The token model (business model) is designed simply that the value of the WGR coin aligns to the value of the Wagerr betting network. It is best described through an example:
 
@@ -104,3 +104,7 @@ A masternode is a computer that operates and helps operate the Wagerr betting ne
 An Oracle masternode is similar but has the extra role of supplying sports data to the network to help Wagerr determine winning and losing bets. This involves higher costs and therefore is incentivised by earning a percentage of the betting fees that the network earns. Currently, Oracle masternodes are being operated by the team as they develop them. Once ready, this will be handed over to the public. 
 
 Wagerr has relationships with various third parties that provide the technical services to easily manage and operate a masternode at low costs. The Wagerr [Telegram](https://t.me/wagerrcoin) or [Discord](https://discord.com/invite/vecf8Ca) community is typically the best option to ask and learn more about these services.
+
+
+
+<a id=buyingWGR></a>
