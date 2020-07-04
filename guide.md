@@ -41,10 +41,14 @@ To get started with Wagerr you need to first download the Wagerr software, the l
 * iOS - [iosapp.wagerr.com](iosapp.wagerr.com)
 * Desktop - [wagerr.com](wagerr.com)
 
-To begin betting you will need to purchase WGR coins. <a href=buyingWGR>Read how to purchase coins here.</a>
+To begin betting you will need to purchase WGR coins. 
 
 If you have any difficulties with downloading the software please join the Wagerr [Telegram](https://t.me/wagerrcoin) or [Discord](https://discord.com/invite/vecf8Ca) community to ask for help.
 
+## How can I purchase Wagerr?
+WGR can be purchased using your debit or credit card via [instaswap.io](https://instaswap.io). Instaswap also provides a crypto currency to WGR swap service for those that do not wish to register with one of our Cryptocurrency exchanges to purchase WGR directly.
+
+We keep an up to date list of exchanges that support WGR on our website [here](https://wagerr.com/en/get-wallet). 
 
 ## Can I bet with Bitcoin or other currencies?
 
@@ -53,11 +57,6 @@ No. Wagerr is purpose built for sports betting. The unique features that we offe
 If we were to solely use BTC, ETH or various stable coins, then this would be no different to many of the sportsbooks that you likely see and use today. Wagerr is a new business model that requires WGR for the model to work. We envision in the future that businesses will utilise the Wagerr protocol to operate their sportsbook more efficiently and provide users an option to gamble with their preferred currency, be that USD, BTC or something else.
 
 Therefore, if you wish to use the Wagerr betting platform directly you will need to obtain WGR first. Read more about how to purchase WGR here.
-
-## How can I purchase Wagerr?
-WGR can be purchased using your debit or credit card via [instaswap.io](https://instaswap.io). Instaswap also provides a crypto currency to WGR swap service for those that do not wish to register with one of our Cryptocurrency exchanges to purchase WGR directly.
-
-We keep an up to date list of exchanges that support WGR on our website [here](https://wagerr.com/en/get-wallet). 
 
 
 ## How is Wagerr transparent?
@@ -88,7 +87,7 @@ Let’s assume that there are 1000 WGR coins in circulation. If I wanted to make
 Bettors will win and lose overtime and therefore the supply of WGR will fluctuate overtime. However, overtime we expect that more WGR will be removed from the supply then added because a small house edge is added to the odds which is then burned (removed from the supply). Wagerr charges an incredibly low 3% margin that is competitive with the best traditional sportsbooks in the world and we expect this to lower overtime. The below picture should help visualise this house edge.
 
 
-<center><img src="tokennomics.png" /></center>
+<center><img src="Tokenomics.png"/></center>
 
 If you haven’t realised, effectively what Wagerr does is burn WGR coins to return the value of the house edge back to holders of the WGR coin. Afterall, the Wagerr blockchain is not a company and does not need to earn profits. Winning bettors should compound their winning by holding over a longer term to benefit from this house edge. 
 
