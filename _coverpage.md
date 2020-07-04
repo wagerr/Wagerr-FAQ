@@ -1,8 +1,10 @@
-![logo](logo.jpeg)
+![logo](wgrprimaryBlack.png)
 
-[Guide](guide)
-[Start Betting](https://wagerr.com)
+[FAQ's](guide)
+
+[Download Software](https://www.wagerr.com/en/get-wallet)
+
+[Live Betting Statistics](https://explorer.wagerr.com/#/statistics)
 
 <!-- background color -->
 
-![color](#fff)
